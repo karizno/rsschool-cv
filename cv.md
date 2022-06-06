@@ -30,7 +30,7 @@
 
 ### WORK EXPERIENCE
 
-##### June 2018 : now \| DevTeam Group, Minsk \(Belarus\)
+#### June 2018 : now \| DevTeam Group, Minsk \(Belarus\)
 
 - **Position**
   - Software Testing Engineer
@@ -58,7 +58,7 @@
   - API testing tool: Postman;
   - other tools: Google Cloud Platform
 
-##### Mar. 2017 : Mar. 2018 | Belhard Development, Minsk \(Belarus\)
+#### Mar. 2017 : Mar. 2018 \| Belhard Development, Minsk \(Belarus\)
 
 - **Position**
   - Software Testing Engineer
@@ -66,7 +66,7 @@
   - mobile application for blind and visually impaired people for platforms Android, iOS, Web.
     **Project description**: using the application the blind person connects with the assistant and broadcasts what is happening in front of the smartphone's camera to the Navigator (assistant) workplace. Navigator is looking at the screen of a pad or smartphone and helps the blind person to find the place person needs, to read in the store signs, prices, etc.
 
-##### May 2014 : Dec. 2016 | Qulix Systems \(Yandex\), Minsk \(Belarus\)
+#### May 2014 : Dec. 2016 \| Qulix Systems \(Yandex projects\), Minsk \(Belarus\)
 
 - **Position**
   - Software Testing Engineer
@@ -74,7 +74,7 @@
   - Yandex Search (search mobile application) for platforms Android, iOS, Windows Phone;
   - Yandex Disk (cloud storage) for platforms Android, iOS
 
-##### Nov. 2012 : Feb. 2014 | Sberbank-Technology, Minsk (Belarus)
+#### Nov. 2012 : Feb. 2014 \| Sberbank-Technology, Minsk (Belarus)
 
 - **Position**
   - Software Testing Engineer
@@ -82,7 +82,7 @@
   - software for payment terminals;
   - internet banking (Web application)
 
-##### Nov. 2011 : Oct. 2012 | Mobiletag, Minsk (Belarus)
+#### Nov. 2011 : Oct. 2012 \| Mobiletag, Minsk (Belarus)
 
 - **Position**
   - Software Testing Engineer
@@ -91,42 +91,42 @@
 
 ### UNIVERSITY EDUCATION
 
-##### Institute of Information Technologies and Management of BSU, Minsk \(Belarus\)
+#### Institute of Information Technologies and Management of BSU, Minsk \(Belarus\)
 
 - **Specialty**
   - Software of Information Systems
 
-##### School of Business and Management of Technology of BSU, Minsk \(Belarus\)
+#### School of Business and Management of Technology of BSU, Minsk \(Belarus\)
 
 - **Specialty**
   - Web Design and Computer Graphics
 
-##### Belarusian State Technological University, Minsk \(Belarus\)
+#### Belarusian State Technological University, Minsk \(Belarus\)
 
 - **Specialty**
   - Automation of Technological Processes
 
 ### EXTRA EDUCATION
 
-##### National University of Science and Technology MISIS \(online\)
+#### National University of Science and Technology MISIS \(online\)
 
-- **Training course** | Personal efficiency. Time management
-- **Period of study** | Oct. 2016 : Dec. 2017 \(10 weeks\)
+- **Training course** \| Personal efficiency. Time management
+- **Period of study** \| Oct. 2016 : Dec. 2017 \(10 weeks\)
 
-##### Coaching Centre, Minsk (Belarus)
+#### Coaching Centre, Minsk (Belarus)
 
-- **Training course** | Professional Coach ICU
-- **Period of study** | Oct. 2015 : Apr. 2016
+- **Training course** \| Professional Coach ICU
+- **Period of study** \| Oct. 2015 : Apr. 2016
 
-##### IT-Academy, Minsk (Belarus)
+#### IT-Academy, Minsk (Belarus)
 
-- **Training course** | Ruby development. Basic course
-- **Period of study** | May 2013 : July 2013
+- **Training course** \| Ruby development. Basic course
+- **Period of study** \| May 2013 : July 2013
 
-##### IT-Academy, Minsk (Belarus)
+#### IT-Academy, Minsk (Belarus)
 
-- **Training course** | Functional Software Testing
-- **Period of study** | Aug. 2011 : Dec. 2011
+- **Training course** \| Functional Software Testing
+- **Period of study** \| Aug. 2011 : Dec. 2011
 
 ### UDEMY CERTIFICATES
 
