@@ -1,7 +1,5 @@
 # MIKHAIL KARYZNO
 
----
-
 ### CONTACTS
 
 - **Mobile**: \+375 29 850-33-33
