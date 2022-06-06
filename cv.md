@@ -88,3 +88,50 @@
   - Software Testing Engineer
 - **Project**
   - 1D / 2D code scanner for platforms Android, iOS, Windows Phone, Web
+
+### UNIVERSITY EDUCATION
+
+##### Institute of Information Technologies and Management of BSU, Minsk \(Belarus\)
+
+- **Specialty**
+  - Software of Information Systems
+
+##### School of Business and Management of Technology of BSU, Minsk \(Belarus\)
+
+- **Specialty**
+  - Web Design and Computer Graphics
+
+##### Belarusian State Technological University, Minsk \(Belarus\)
+
+- **Specialty**
+  - Automation of Technological Processes
+
+### EXTRA EDUCATION
+
+##### National University of Science and Technology MISIS \(online\)
+
+- **Training course** | Personal efficiency. Time management
+- **Period of study** | Oct. 2016 : Dec. 2017 \(10 weeks\)
+
+##### Coaching Centre, Minsk (Belarus)
+
+- **Training course** | Professional Coach ICU
+- **Period of study** | Oct. 2015 : Apr. 2016
+
+##### IT-Academy, Minsk (Belarus)
+
+- **Training course** | Ruby development. Basic course
+- **Period of study** | May 2013 : July 2013
+
+##### IT-Academy, Minsk (Belarus)
+
+- **Training course** | Functional Software Testing
+- **Period of study** | Aug. 2011 : Dec. 2011
+
+### UDEMY CERTIFICATES
+
+##### [HTML5 and CSS3](https://www.udemy.com/certificate/UC-ZWLDIN7U/)
+
+##### [C# Basics for Beginners](https://www.udemy.com/certificate/UC-GAC5VM2B/)
+
+##### [Selenium WebDriver with C# for Beginners](https://www.udemy.com/certificate/UC-RPOYGLBD/)
