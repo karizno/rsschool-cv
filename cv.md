@@ -69,3 +69,27 @@
     - Software Testing Engineer
 - Project:
     - 1D / 2D code scanner for platforms Android, iOS, Windows Phone, Web
+
+#### EDUCATION
+```Institute of Information Technologies and Management of BSU, Minsk (Belarus)```
+- Specialty: Software of Information Systems
+
+```School of Business and Management of Technology of BSU, Minsk (Belarus)```
+- Specialty: Web Design and Computer Graphics
+
+#### EXTRA EDUCATION
+```IT-Academy, Minsk (Belarus)```
+- Training course: JavaScript Test Automation (by EPAM)
+- Period of study: Sept. 2022 - Dec. 2022
+
+```National University of Science and Technology MISIS (online course)```
+- Training course: Personal efficiency: Time management
+- Period of study: Oct. 2016 - Dec. 2016 (10 weeks)
+
+```IT-Academy, Minsk (Belarus)```
+- Training course: Ruby development. Basic course
+- Period of study: May 2013 - July 2013
+
+```IT-Academy, Minsk (Belarus)```
+- Training course: Functional Software Testing
+- Period of study: Aug. 2011 - Dec. 2011
